@@ -1,1 +1,10 @@
-whatever
+<?xml version="1.0"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <item>
+      <title>CVE-2021-4034 is getting exploited in the wild</title>
+      <link>https://inthewild.io/vuln/CVE-2021-4034</link>
+      <pubDate>2022-08-09T17:22:16.190Z</pubDate>
+      </item>
+    </channel>
+  </rss>
